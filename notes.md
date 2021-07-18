@@ -16,7 +16,7 @@ via internet with pay-as-you-go pricing**
 
 **ON DEMAND** \
 **AVAILABLE IN SECONDS** \
-**PAY-AS-YOU-GO** \
+**PAY-AS-YOU-GO** 
 
 ### 6 ADVANTAGES OF CLOUD COMPUTING
 1. Trade capital expense for variable expense
@@ -53,18 +53,21 @@ private cloud (virtualization, resource mgmt tools); ability to provide dedicate
 
 **AWS provides global infrastructure >1m users, 240 countries. Low latency, high output.**
 
-## SECURITY AND COMPLIANCE
+### SECURITY AND COMPLIANCE
 
 **highest priority** - software based security tools, no need to manage physical servers + no cost
 
 
-###Benefits
-**Keep your data safe** - strong safeguards in place, highly secure AWS data centers
-**Meet Compliance Requirements** - dozens of compliance programs --> segments of compliance completed
-**Save money** - highest standard of security -- no need to manage own facility
-**Scale Quickly** - scales with usage. AWS infrastructure will keep data safe
+**Benefits** 
+* Keep your data safe - strong safeguards in place, highly secure AWS data centers
+* Meet Compliance Requirements - dozens of compliance programs --> segments of compliance completed
+* Save money - highest standard of security -- no need to manage own facility
+* Scale Quickly - scales with usage. AWS infrastructure will keep data safe
 
 **AWS Cloud Compliance** 
+responsibilities will be shared; governance focused, audit-friendly service features, establish and operate in an AWS security control env. IT structure align with best practices & IT security standards.
+
+
 
 
 
